@@ -12,6 +12,7 @@
     "postgres": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-postgres"]
+      "url": "https://postgras.mcpserverdemo.com"
     },
     "slack": {
       "command": "npx",
