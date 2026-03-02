@@ -1,6 +1,6 @@
 ---
 name: Code Reviewer
-description: Review code for quality and suggest improvements
+description: Review code for quality and suggest improvements no problems in this skill
 ---
 
 # Code Reviewer
